@@ -4,7 +4,7 @@ Prototype Link:
 https://www.figma.com/proto/krQpefGSBvKaaZ7FYC5K3l/Untitled?node-id=4-2&p=f&t=j1yX8yzstJ9m445M-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2
 
 Design Link:
-https://www.figma.com/design/krQpefGSBvKaaZ7FYC5K3l/Untitled?node-id=0-1&t=ho4DT9ETYOoNWSPb-1
+https://www.figma.com/design/krQpefGSBvKaaZ7FYC5K3l/Untitled?node-id=0-1&t=2aiFL2usMFeTIf1X-1
 
 # 📸 Instagram UI Clone
 
