@@ -1,7 +1,7 @@
 # UI-UX_EXAM1
 
 Prototype Link:
-https://www.figma.com/proto/krQpefGSBvKaaZ7FYC5K3l/Untitled?node-id=4-2&p=f&t=j1yX8yzstJ9m445M-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2
+https://www.figma.com/proto/krQpefGSBvKaaZ7FYC5K3l/Untitled?node-id=4-2&p=f&t=58AMBMmBJqM5YKHK-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2
 
 Design Link:
 https://www.figma.com/design/krQpefGSBvKaaZ7FYC5K3l/Untitled?node-id=0-1&t=2aiFL2usMFeTIf1X-1
@@ -34,7 +34,8 @@ A clean and modern **Instagram UI Clone** designed in **Figma**. This project re
 
 ### 3. Home Feed
 
-<img width="440" height="956" alt="iPhone 16   17 Pro Max - 3" src="https://github.com/user-attachments/assets/64bdf280-a30a-43d0-ac99-28536f29f5bc" />
+<img width="440" height="956" alt="iPhone 16   17 Pro Max - 3 (1)" src="https://github.com/user-attachments/assets/bba29aa5-5ee1-4bc7-b15a-bc4fa9a9c621" />
+
 
 
 - Stories section
@@ -110,7 +111,7 @@ A clean and modern **Instagram UI Clone** designed in **Figma**. This project re
 
 ## 📂 Project Preview
 
-<img width="3320" height="962" alt="Untitled" src="https://github.com/user-attachments/assets/646e08bd-ccdd-4ffc-bf94-321abc4d697e" />
+<img width="3320" height="962" alt="Instagram" src="https://github.com/user-attachments/assets/4255d25c-7753-4657-a441-ca639426edb6" />
 
 
 ---
