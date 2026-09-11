@@ -34,7 +34,8 @@ A clean and modern **Instagram UI Clone** designed in **Figma**. This project re
 
 ### 3. Home Feed
 
-<img width="440" height="956" alt="iPhone 16   17 Pro Max - 3" src="https://github.com/user-attachments/assets/31b89a93-ebbb-4b2f-9490-f8ac30e62057" />
+<img width="440" height="956" alt="iPhone 16   17 Pro Max - 3" src="https://github.com/user-attachments/assets/64bdf280-a30a-43d0-ac99-28536f29f5bc" />
+
 
 - Stories section
 - Feed posts
@@ -63,7 +64,8 @@ A clean and modern **Instagram UI Clone** designed in **Figma**. This project re
 
 ### 6. Explore
 
-<img width="440" height="956" alt="iPhone 16   17 Pro Max - 6" src="https://github.com/user-attachments/assets/c20560bd-1fab-41dc-8906-98d678165ebd" />
+<img width="440" height="956" alt="iPhone 16   17 Pro Max - 6" src="https://github.com/user-attachments/assets/ce1a835e-8752-4092-9ed5-d1d9009a7e48" />
+
 
 
 - Search bar
@@ -108,7 +110,8 @@ A clean and modern **Instagram UI Clone** designed in **Figma**. This project re
 
 ## 📂 Project Preview
 
-![Instagram UI](Instagram.png)
+<img width="3320" height="962" alt="Untitled" src="https://github.com/user-attachments/assets/646e08bd-ccdd-4ffc-bf94-321abc4d697e" />
+
 
 ---
 
